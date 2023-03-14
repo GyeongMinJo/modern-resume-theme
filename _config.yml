@@ -16,7 +16,7 @@ website: https://GyeongMinJo.guthub.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: ture
 
 # Social links
 twitter_username: jekyllrb
